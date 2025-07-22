@@ -1,1 +1,3 @@
-Hi everyone, welcome to embedded class
+Hi everyone,
+This a class for GitHub login process
+GitHub used for projects upload and portfolio creation platform
