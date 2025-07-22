@@ -1,2 +1,2 @@
-helllooo 
-esrdtfghjkm
+Hi, this is embedded class
+How is it?
