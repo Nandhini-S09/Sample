@@ -1,2 +1,1 @@
-Hi, this is embedded class
-How is it?
+Hi everyone, welcome to embedded class
