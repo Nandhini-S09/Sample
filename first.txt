@@ -1,3 +1,5 @@
-Hi everyone,
-This a class for GitHub login process,
-GitHub used for portfolio creation platform.
+Hi, Good afternoon
+We will see "what are languages in C we have?,
+When C languages started,
+What are the languages before C language,
+Who developed those languages.
